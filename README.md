@@ -10,11 +10,11 @@ Veuillez noter que cette liste n'est pas exhaustive et ne prétend pas couvrir t
 | DALL-E 2     | Modèle de génération d'images d'IA à partir de descriptions textuelles | 4 | ✅ | https://labs.openai.com/ |
 | Gamma.app | Plateforme d'analyse et de surveillance des déploiements de logiciels basée sur l'IA | 4.5 | ✅ | https://gamma.app/ |
 | Uizard       | Plateforme d'IA pour créer des interfaces utilisateur à partir de croquis |  | ❌ | https://www.uizard.io/ |
-| Enterpix     | Plateforme d'IA pour générer des images créatives |  | ❌ | - |
+| Enterpix     | Plateforme d'IA pour générer des images créatives |  | ❌ | https://www.enterpix.app/ |
 | Fireflies AI | Plateforme d'IA pour transcrire automatiquement les réunions et les appels |  | ❌ | https://fireflies.ai/ |
 | Synthesia    | Plateforme d'IA pour créer des vidéos réalistes avec des avatars virtuels |  | ❌ | https://synthesia.io/ |
 | Plag AI      | Plateforme d'IA pour détecter le plagiat dans les documents |  | ❌ | https://www.plag.ai/ |
-| Watermark Remover AI | Plateforme d'IA pour supprimer les filigranes des images |  | ❌ | https://www.watermark-remover.com/ |
+| Watermark Remover AI | Plateforme d'IA pour supprimer les filigranes des images |  | ❌ | https://www.watermarkremover.io/ |
 | Lordicon     | Plateforme d'IA pour créer des icônes animées |  | ❌ | https://lordicon.com/ |
 | Edx | Plateforme de formation en ligne pour des cours universitaires gratuits |  | ❌ | https://www.edx.org/ |
 | Remover Zmo | Plateforme d'IA pour supprimer les personnes d'une photo en quelques secondes |  | ❌ | https://www.removerzmo.com/ |
