@@ -20,5 +20,3 @@ Veuillez noter que cette liste n'est pas exhaustive et ne prétend pas couvrir t
 | Remover Zmo | Plateforme d'IA pour supprimer les personnes d'une photo en quelques secondes |  | ❌ | https://www.removerzmo.com/ |
 | Midjourney com | Plateforme d'IA pour générer des images à partir de descriptions textuelles |  | ❌ | https://www.midjourney.com/ |
 | Upscale Media | Plateforme d'IA pour améliorer la résolution des images sans compromettre la qualité |  | ❌ | https://upscale.media/ |
-
-**Note :** La fiabilité a été attribuée sur une échelle de 1 à 5 en fonction de l'efficacité, de la précision et de la qualité des
