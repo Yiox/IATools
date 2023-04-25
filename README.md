@@ -1,6 +1,6 @@
 # Liste d'outils d'IA
 
-Ce répertoire contient une liste d'outils d'IA avec des descriptions et des informations sur leur fiabilité. Les outils ont été soigneusement sélectionnés et testés pour fournir des résultats précis et de haute qualité.
+Ce répertoire contient une liste d'outils d'IA avec des descriptions et des informations sur leur fiabilité.
 
 Veuillez noter que cette liste n'est pas exhaustive et ne prétend pas couvrir tous les outils d'IA disponibles. Elle a été créée dans le but de fournir une introduction à certains outils d'IA utiles. Les informations de fiabilité sont basées sur des tests et des évaluations réalisés par des tiers. Je ne suis pas responsable de l'exactitude des informations contenues dans cette liste et ne m'engage à rien en ce qui concerne l'utilisation ou la performance des outils mentionnés.
 
