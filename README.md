@@ -1,5 +1,8 @@
 Ce répertoire contient une liste d'outils d'IA avec des descriptions et des informations sur leur fiabilité. Les outils ont été soigneusement sélectionnés et testés pour fournir des résultats précis et de haute qualité.
 
+|Cette liste d'outils d'IA n'est pas exhaustive et ne prétend pas couvrir tous les outils d'IA disponibles. Elle a été créée dans le but de fournir une introduction à certains outils d'IA utiles. Les informations de fiabilité sont basées sur des tests et des évaluations réalisés par des tiers. Veuillez noter que je ne suis pas responsable de l'exactitude des informations contenues dans cette liste et que je ne m'engage à rien en ce qui concerne l'utilisation ou la performance des outils mentionnés.|
+
+
 | Outil        | Description   | Fiabilité sur une échelle de 1 à 5 | Testé | Site Web |
 |--------------|---------------|------------------------------------|-------|----------|
 | Chat GPT     | Modèle de langage de traitement du langage naturel pour mener des conversations en ligne | 5 | ✅ | https://chat.openai.com/ |
