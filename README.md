@@ -15,7 +15,7 @@ Cette liste d'outils d'IA n'est pas exhaustive et ne prétend pas couvrir tous l
 | Plag AI      | plagiarism checker |  | ❌ | https://www.plag.ai/ |
 | Watermark Remover AI | Plateforme d'IA pour supprimer les filigranes des images |  | ❌ | https://www.watermark-remover.com/ |
 | Lordicon     | Crafted animated icons | 4 | Oui | https://lordicon.com/ |
-| ----- A verifier ---- |
+----- A verifier ----
 | Drivelisten com | x | x | ❌ | https://drivelisten.com/ |
 | System IO | Bibliothèque de logiciels pour faciliter le développement .NET |  | ❌ | https://system.io/ |
 | Sidehustles | Plateforme de formation en ligne pour apprendre à gagner de l'argent avec des projets annexes |  | ❌ | https://sidehustles.io/ |
